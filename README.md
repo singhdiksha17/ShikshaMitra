@@ -29,23 +29,28 @@ This project includes:
 shikshamitra/
 │
 ├── backend/
-│ ├── server.js
-│ ├── package.json
-│ └── package-lock.json
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── server.js
+│   └── (other backend files…)
 │
 ├── frontend/
-│ ├── index.html
-│ ├── package.json
-│ ├── tailwind.config.js
-│ ├── postcss.config.cjs
-│ └── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── components/
-│ └── ShikshaMitra.jsx
+│   ├── index.html
+│   ├── package.json
+│   ├── postcss.config.cjs
+│   ├── tailwind.config.js
+│   ├── vite.config.js
+│   │
+│   └── src/
+│       ├── App.jsx
+│       ├── index.css
+│       ├── main.jsx
+│       └── components/
+│           └── ShikshaMitra.jsx
 │
 ├── .gitignore
 └── README.md
+
 
 
 ---
