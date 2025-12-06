@@ -24,8 +24,8 @@ This project includes:
 - Runs independently on its own server
 
 ---
-(```
 ## 📂 Project Structure
+```
 shikshamitra/
 │
 ├── backend/
@@ -50,7 +50,7 @@ shikshamitra/
 │
 ├── .gitignore
 └── README.md
-)
+```
 
 
 ---
